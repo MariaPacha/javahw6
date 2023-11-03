@@ -5,15 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7bda330-3f26-4e58-aa96-62aaa910cb17" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WnXPF5XcsQitCuIpBVxbGAM4VD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,9 +39,110 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_directory_selection": "/Users/dsaltanov/IdeaProjects/hw6/src/main/java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.stats" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StatsServiceTest.testBAverage">
+    <configuration name="StatsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.testAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="testAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.testBAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="testBAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.testMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="testMin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.testNAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="testNAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatsServiceTest.testBAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.testNAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.testMin" />
+        <item itemvalue="JUnit.StatsServiceTest.testAverage" />
+        <item itemvalue="JUnit.StatsServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
